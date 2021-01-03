@@ -11,6 +11,7 @@ public class App {
 
         System.out.println(tea.min()); // должен вывести: Чай: Грузинский черный Цена: 40.0
         System.out.println(tea.max()); // должен вывести: Чай: Китайский зеленый Цена: 250.0
+
     }
 }
 
